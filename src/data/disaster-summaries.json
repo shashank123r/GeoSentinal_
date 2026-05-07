@@ -1,0 +1,152 @@
+[
+  {
+    "disaster_name": "guatemala-volcano",
+    "centroid": [
+      14.407080671877747,
+      -90.83513459597862
+    ],
+    "bounds": {
+      "north": 14.494721424471784,
+      "south": 14.361198667191758,
+      "east": -90.80633815927571,
+      "west": -90.87965984305683
+    },
+    "total_images": 44,
+    "total_buildings": 1776
+  },
+  {
+    "disaster_name": "hurricane-florence",
+    "centroid": [
+      34.643477523535054,
+      -77.96737959091772
+    ],
+    "bounds": {
+      "north": 34.89196932772653,
+      "south": 33.584076834827094,
+      "east": -77.83782069023621,
+      "west": -79.05390151508283
+    },
+    "total_images": 818,
+    "total_buildings": 17428
+  },
+  {
+    "disaster_name": "hurricane-harvey",
+    "centroid": [
+      29.726170686014264,
+      -95.59085013242094
+    ],
+    "bounds": {
+      "north": 30.056607266807013,
+      "south": 29.444847517991384,
+      "east": -95.34011036458773,
+      "west": -95.67646826857357
+    },
+    "total_images": 798,
+    "total_buildings": 61458
+  },
+  {
+    "disaster_name": "hurricane-matthew",
+    "centroid": [
+      18.42521706094716,
+      -73.978330830001
+    ],
+    "bounds": {
+      "north": 18.656248569535165,
+      "south": 18.175981474153833,
+      "east": -73.52823077881779,
+      "west": -74.15793623383352
+    },
+    "total_images": 580,
+    "total_buildings": 36256
+  },
+  {
+    "disaster_name": "hurricane-michael",
+    "centroid": [
+      30.194474333086646,
+      -85.66006205760092
+    ],
+    "bounds": {
+      "north": 30.32130534219887,
+      "south": 30.07981201410905,
+      "east": -85.6094499446204,
+      "west": -85.77958180346418
+    },
+    "total_images": 854,
+    "total_buildings": 56686
+  },
+  {
+    "disaster_name": "mexico-earthquake",
+    "centroid": [
+      19.307232101469516,
+      -99.18626041551923
+    ],
+    "bounds": {
+      "north": 19.421347443255687,
+      "south": 19.24918949499216,
+      "east": -99.14196546714889,
+      "west": -99.2277846276448
+    },
+    "total_images": 318,
+    "total_buildings": 87364
+  },
+  {
+    "disaster_name": "midwest-flooding",
+    "centroid": [
+      35.918757654817966,
+      -95.59626581651462
+    ],
+    "bounds": {
+      "north": 36.44321693136306,
+      "south": 34.68893206714491,
+      "east": -92.30921116680628,
+      "west": -96.38534760103374
+    },
+    "total_images": 636,
+    "total_buildings": 22576
+  },
+  {
+    "disaster_name": "palu-tsunami",
+    "centroid": [
+      -0.8542215267408371,
+      119.86030965408239
+    ],
+    "bounds": {
+      "north": -0.7054743539564422,
+      "south": -0.9933479661191437,
+      "east": 119.92633122819034,
+      "west": 119.79713328223151
+    },
+    "total_images": 306,
+    "total_buildings": 87908
+  },
+  {
+    "disaster_name": "santa-rosa-wildfire",
+    "centroid": [
+      38.4967844514646,
+      -122.71101520053844
+    ],
+    "bounds": {
+      "north": 38.55902083999331,
+      "south": 38.40869151381328,
+      "east": -122.6406695693013,
+      "west": -122.78128014516975
+    },
+    "total_images": 582,
+    "total_buildings": 34352
+  },
+  {
+    "disaster_name": "socal-fire",
+    "centroid": [
+      34.089695619139036,
+      -118.81540448259119
+    ],
+    "bounds": {
+      "north": 34.18927566354282,
+      "south": 34.01505938742303,
+      "east": -118.71248256215675,
+      "west": -118.93883756377049
+    },
+    "total_images": 1134,
+    "total_buildings": 29494
+  }
+]

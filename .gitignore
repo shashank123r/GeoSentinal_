@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# xBD Dataset — too large for GitHub (11+ GB)
+train/
+test/
+
+# Model weights (large binary files)
+*.pth
+*.pt
+*.bin
+*.ckpt
+
+# Logs
+build_log.txt
+build_log_utf8.txt
+debug_log.txt
+
+# Environment variables (secrets)
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+build/
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

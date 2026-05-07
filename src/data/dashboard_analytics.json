@@ -1,0 +1,529 @@
+{
+  "metadata": {
+    "generated_at": "2025-12-04T10:36:20.771612",
+    "total_disasters": 10,
+    "total_locations": 3035,
+    "total_buildings": 217649
+  },
+  "kpis": {
+    "total_disasters": 10,
+    "total_buildings": 217649,
+    "total_casualties": 5211,
+    "total_displaced": 842000,
+    "total_economic_loss": 194.1,
+    "avg_damage_rate": 42.3,
+    "most_severe_type": "Flood",
+    "countries_affected": 4,
+    "total_locations": 3035,
+    "total_images": 3035
+  },
+  "type_distribution": {
+    "fire": {
+      "count": 880,
+      "percentage": 29.0
+    },
+    "hurricane": {
+      "count": 1525,
+      "percentage": 50.2
+    },
+    "earthquake": {
+      "count": 159,
+      "percentage": 5.2
+    },
+    "flood": {
+      "count": 471,
+      "percentage": 15.5
+    }
+  },
+  "damage_breakdown": {
+    "hurricane": {
+      "no_damage": 30,
+      "minor": 25,
+      "major": 25,
+      "destroyed": 20
+    },
+    "fire": {
+      "no_damage": 25,
+      "minor": 30,
+      "major": 25,
+      "destroyed": 20
+    },
+    "flood": {
+      "no_damage": 35,
+      "minor": 25,
+      "major": 20,
+      "destroyed": 20
+    },
+    "earthquake": {
+      "no_damage": 20,
+      "minor": 25,
+      "major": 30,
+      "destroyed": 25
+    },
+    "cyclone": {
+      "no_damage": 30,
+      "minor": 25,
+      "major": 25,
+      "destroyed": 20
+    }
+  },
+  "temporal_trends": {
+    "years": [
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+    ],
+    "disaster_counts": [
+      1,
+      4,
+      4,
+      1
+    ],
+    "casualties": [
+      49,
+      501,
+      4657,
+      4
+    ],
+    "displaced": [
+      4000,
+      600000,
+      236000,
+      2000
+    ],
+    "economic_loss": [
+      10.0,
+      130.4,
+      50.7,
+      3.0
+    ],
+    "details": {
+      "2016": {
+        "disasters": [
+          "Hurricane Matthew"
+        ],
+        "count": 1,
+        "total_casualties": 49,
+        "total_displaced": 4000,
+        "total_economic_loss": 10.0,
+        "total_buildings": 0
+      },
+      "2017": {
+        "disasters": [
+          "Hurricane Harvey",
+          "Puebla Earthquake",
+          "Tubbs Fire",
+          "Southern California Wildfires"
+        ],
+        "count": 4,
+        "total_casualties": 501,
+        "total_displaced": 600000,
+        "total_economic_loss": 130.39999999999998,
+        "total_buildings": 0
+      },
+      "2018": {
+        "disasters": [
+          "Fuego Volcano Eruption",
+          "Hurricane Florence",
+          "Hurricane Michael",
+          "Sulawesi Earthquake and Tsunami"
+        ],
+        "count": 4,
+        "total_casualties": 4657,
+        "total_displaced": 236000,
+        "total_economic_loss": 50.699999999999996,
+        "total_buildings": 0
+      },
+      "2019": {
+        "disasters": [
+          "Midwest Floods"
+        ],
+        "count": 1,
+        "total_casualties": 4,
+        "total_displaced": 2000,
+        "total_economic_loss": 3.0,
+        "total_buildings": 0
+      }
+    }
+  },
+  "geographic_distribution": {
+    "by_continent": {
+      "Central America": {
+        "count": 22,
+        "percentage": 0.7
+      },
+      "North America": {
+        "count": 2860,
+        "percentage": 94.2
+      },
+      "Asia": {
+        "count": 153,
+        "percentage": 5.0
+      }
+    },
+    "by_country": {
+      "Guatemala": 22,
+      "United States": 2701,
+      "Mexico": 159,
+      "Indonesia": 153
+    }
+  },
+  "top_disasters": {
+    "by_casualties": [
+      {
+        "name": "Sulawesi Earthquake and Tsunami",
+        "value": 4340,
+        "type": "flood"
+      },
+      {
+        "name": "Puebla Earthquake",
+        "value": 370,
+        "type": "earthquake"
+      },
+      {
+        "name": "Fuego Volcano Eruption",
+        "value": 190,
+        "type": "fire"
+      },
+      {
+        "name": "Hurricane Harvey",
+        "value": 107,
+        "type": "hurricane"
+      },
+      {
+        "name": "Hurricane Michael",
+        "value": 74,
+        "type": "hurricane"
+      }
+    ],
+    "by_economic_loss": [
+      {
+        "name": "Hurricane Harvey",
+        "value": 125.0,
+        "type": "hurricane"
+      },
+      {
+        "name": "Hurricane Michael",
+        "value": 25.1,
+        "type": "hurricane"
+      },
+      {
+        "name": "Hurricane Florence",
+        "value": 24.2,
+        "type": "hurricane"
+      },
+      {
+        "name": "Hurricane Matthew",
+        "value": 10.0,
+        "type": "hurricane"
+      },
+      {
+        "name": "Midwest Floods",
+        "value": 3.0,
+        "type": "flood"
+      }
+    ],
+    "by_displaced": [
+      {
+        "name": "Puebla Earthquake",
+        "value": 250000,
+        "type": "earthquake"
+      },
+      {
+        "name": "Southern California Wildfires",
+        "value": 230000,
+        "type": "fire"
+      },
+      {
+        "name": "Sulawesi Earthquake and Tsunami",
+        "value": 206000,
+        "type": "flood"
+      },
+      {
+        "name": "Tubbs Fire",
+        "value": 90000,
+        "type": "fire"
+      },
+      {
+        "name": "Hurricane Harvey",
+        "value": 30000,
+        "type": "hurricane"
+      }
+    ],
+    "by_area": [
+      {
+        "name": "Southern California Wildfires",
+        "value": 4725,
+        "type": "fire"
+      },
+      {
+        "name": "Midwest Floods",
+        "value": 4408,
+        "type": "flood"
+      },
+      {
+        "name": "Hurricane Michael",
+        "value": 3986,
+        "type": "hurricane"
+      },
+      {
+        "name": "Hurricane Matthew",
+        "value": 3923,
+        "type": "hurricane"
+      },
+      {
+        "name": "Fuego Volcano Eruption",
+        "value": 3235,
+        "type": "fire"
+      }
+    ]
+  },
+  "regional_analysis": {
+    "US East Coast": {
+      "by_type": {
+        "hurricane": 3
+      },
+      "total_casualties": 176,
+      "total_displaced": 22000
+    },
+    "US West Coast": {
+      "by_type": {
+        "fire": 2
+      },
+      "total_casualties": 24,
+      "total_displaced": 320000
+    },
+    "Central America": {
+      "by_type": {
+        "fire": 1
+      },
+      "total_casualties": 190,
+      "total_displaced": 12000
+    },
+    "Southeast Asia": {
+      "by_type": {
+        "flood": 1
+      },
+      "total_casualties": 4340,
+      "total_displaced": 206000
+    },
+    "South Asia": {
+      "by_type": {},
+      "total_casualties": 0,
+      "total_displaced": 0
+    },
+    "Europe": {
+      "by_type": {},
+      "total_casualties": 0,
+      "total_displaced": 0
+    },
+    "Australia": {
+      "by_type": {},
+      "total_casualties": 0,
+      "total_displaced": 0
+    }
+  },
+  "detailed_events": [
+    {
+      "id": 7,
+      "name": "Midwest Floods",
+      "type": "flood",
+      "date": "2019-03-15",
+      "location": "Nebraska and Iowa",
+      "country": "United States",
+      "coordinates": [
+        41.2565,
+        -95.9345
+      ],
+      "severity": "high",
+      "buildings_analyzed": 11288,
+      "images": 318,
+      "casualties": 4,
+      "displaced": 2000,
+      "economic_loss": 3.0,
+      "affected_area": 4408,
+      "description": "Severe flooding caused by rapid snowmelt and heavy rainfall across the Midwest."
+    },
+    {
+      "id": 5,
+      "name": "Hurricane Michael",
+      "type": "hurricane",
+      "date": "2018-10-10",
+      "location": "Florida Panhandle",
+      "country": "United States",
+      "coordinates": [
+        30.1588,
+        -85.6602
+      ],
+      "severity": "high",
+      "buildings_analyzed": 28343,
+      "images": 427,
+      "casualties": 74,
+      "displaced": 8000,
+      "economic_loss": 25.1,
+      "affected_area": 3986,
+      "description": "Category 5 hurricane that devastated the Florida Panhandle with extreme winds and storm surge."
+    },
+    {
+      "id": 8,
+      "name": "Sulawesi Earthquake and Tsunami",
+      "type": "flood",
+      "date": "2018-09-28",
+      "location": "Palu, Central Sulawesi",
+      "country": "Indonesia",
+      "coordinates": [
+        -0.8917,
+        119.8707
+      ],
+      "severity": "medium",
+      "buildings_analyzed": 43954,
+      "images": 153,
+      "casualties": 4340,
+      "displaced": 206000,
+      "economic_loss": 0.9,
+      "affected_area": 2930,
+      "description": "Magnitude 7.5 earthquake triggered a devastating tsunami and soil liquefaction in Palu."
+    },
+    {
+      "id": 2,
+      "name": "Hurricane Florence",
+      "type": "hurricane",
+      "date": "2018-09-14",
+      "location": "North Carolina Coast",
+      "country": "United States",
+      "coordinates": [
+        34.2257,
+        -77.9447
+      ],
+      "severity": "medium",
+      "buildings_analyzed": 8714,
+      "images": 409,
+      "casualties": 53,
+      "displaced": 10000,
+      "economic_loss": 24.2,
+      "affected_area": 271,
+      "description": "Category 4 hurricane that made landfall in North Carolina, causing catastrophic flooding and wind damage."
+    },
+    {
+      "id": 1,
+      "name": "Fuego Volcano Eruption",
+      "type": "fire",
+      "date": "2018-06-03",
+      "location": "Escuintla Department",
+      "country": "Guatemala",
+      "coordinates": [
+        14.473,
+        -90.881
+      ],
+      "severity": "high",
+      "buildings_analyzed": 888,
+      "images": 22,
+      "casualties": 190,
+      "displaced": 12000,
+      "economic_loss": 0.5,
+      "affected_area": 3235,
+      "description": "The Fuego volcano erupted violently, producing pyroclastic flows that destroyed villages and caused significant casualties."
+    },
+    {
+      "id": 10,
+      "name": "Southern California Wildfires",
+      "type": "fire",
+      "date": "2017-12-04",
+      "location": "Los Angeles County",
+      "country": "United States",
+      "coordinates": [
+        34.0522,
+        -118.2437
+      ],
+      "severity": "high",
+      "buildings_analyzed": 14747,
+      "images": 567,
+      "casualties": 2,
+      "displaced": 230000,
+      "economic_loss": 2.2,
+      "affected_area": 4725,
+      "description": "Series of wildfires that burned across Southern California during extreme Santa Ana winds."
+    },
+    {
+      "id": 9,
+      "name": "Tubbs Fire",
+      "type": "fire",
+      "date": "2017-10-09",
+      "location": "Santa Rosa, California",
+      "country": "United States",
+      "coordinates": [
+        38.4404,
+        -122.7141
+      ],
+      "severity": "medium",
+      "buildings_analyzed": 17176,
+      "images": 291,
+      "casualties": 22,
+      "displaced": 90000,
+      "economic_loss": 1.2,
+      "affected_area": 589,
+      "description": "Most destructive wildfire in California history at the time, destroying thousands of homes."
+    },
+    {
+      "id": 6,
+      "name": "Puebla Earthquake",
+      "type": "earthquake",
+      "date": "2017-09-19",
+      "location": "Mexico City",
+      "country": "Mexico",
+      "coordinates": [
+        19.4326,
+        -99.1332
+      ],
+      "severity": "high",
+      "buildings_analyzed": 43682,
+      "images": 159,
+      "casualties": 370,
+      "displaced": 250000,
+      "economic_loss": 2.0,
+      "affected_area": 272,
+      "description": "Magnitude 7.1 earthquake that struck central Mexico, causing widespread building collapses."
+    },
+    {
+      "id": 3,
+      "name": "Hurricane Harvey",
+      "type": "hurricane",
+      "date": "2017-08-25",
+      "location": "Houston Metropolitan Area",
+      "country": "United States",
+      "coordinates": [
+        29.7604,
+        -95.3698
+      ],
+      "severity": "high",
+      "buildings_analyzed": 30729,
+      "images": 399,
+      "casualties": 107,
+      "displaced": 30000,
+      "economic_loss": 125.0,
+      "affected_area": 2827,
+      "description": "Category 4 hurricane that caused unprecedented flooding in Houston and surrounding areas of Texas."
+    },
+    {
+      "id": 4,
+      "name": "Hurricane Matthew",
+      "type": "hurricane",
+      "date": "2016-10-07",
+      "location": "Southeastern United States",
+      "country": "United States",
+      "coordinates": [
+        32.0809,
+        -81.0912
+      ],
+      "severity": "medium",
+      "buildings_analyzed": 18128,
+      "images": 290,
+      "casualties": 49,
+      "displaced": 4000,
+      "economic_loss": 10.0,
+      "affected_area": 3923,
+      "description": "Category 5 hurricane that impacted Haiti, Cuba, and the southeastern United States."
+    }
+  ]
+}

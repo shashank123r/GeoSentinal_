@@ -1,0 +1,369 @@
+{
+    "disasters": [
+        {
+            "id": 1,
+            "type": "fire",
+            "name": "Guatemala Volcano",
+            "location": "Guatemala",
+            "country": "Various",
+            "coordinates": [
+                0,
+                0
+            ],
+            "date": "2018-01-01",
+            "severity": "medium",
+            "affectedArea": 2892,
+            "casualties": 0,
+            "displaced": 0,
+            "economicLoss": 0,
+            "damage": {
+                "buildings": 42,
+                "roads": 33,
+                "vegetation": 25,
+                "waterBodies": 16
+            },
+            "description": "Satellite imagery analysis of Guatemala Volcano from xBD dataset.",
+            "images": {
+                "before": "/api/images/guatemala-volcano/before",
+                "after": "/api/images/guatemala-volcano/after",
+                "thumbnail": "/api/images/guatemala-volcano/thumbnail"
+            },
+            "xbd_data": {
+                "disaster_name": "guatemala-volcano",
+                "pre_images_count": 23,
+                "post_images_count": 23,
+                "sample_pre_image": "guatemala-volcano_00000000_pre_disaster.png",
+                "sample_post_image": "guatemala-volcano_00000000_post_disaster.png"
+            }
+        },
+        {
+            "id": 2,
+            "type": "hurricane",
+            "name": "Hurricane Florence",
+            "location": "Hurricane",
+            "country": "Various",
+            "coordinates": [
+                0,
+                0
+            ],
+            "date": "2018-01-01",
+            "severity": "medium",
+            "affectedArea": 4977,
+            "casualties": 0,
+            "displaced": 0,
+            "economicLoss": 0,
+            "damage": {
+                "buildings": 49,
+                "roads": 39,
+                "vegetation": 29,
+                "waterBodies": 19
+            },
+            "description": "Satellite imagery analysis of Hurricane Florence from xBD dataset.",
+            "images": {
+                "before": "/api/images/hurricane-florence/before",
+                "after": "/api/images/hurricane-florence/after",
+                "thumbnail": "/api/images/hurricane-florence/thumbnail"
+            },
+            "xbd_data": {
+                "disaster_name": "hurricane-florence",
+                "pre_images_count": 427,
+                "post_images_count": 427,
+                "sample_pre_image": "hurricane-florence_00000000_pre_disaster.png",
+                "sample_post_image": "hurricane-florence_00000000_post_disaster.png"
+            }
+        },
+        {
+            "id": 3,
+            "type": "hurricane",
+            "name": "Hurricane Harvey",
+            "location": "Hurricane",
+            "country": "Various",
+            "coordinates": [
+                0,
+                0
+            ],
+            "date": "2018-01-01",
+            "severity": "medium",
+            "affectedArea": 3699,
+            "casualties": 0,
+            "displaced": 0,
+            "economicLoss": 0,
+            "damage": {
+                "buildings": 43,
+                "roads": 35,
+                "vegetation": 26,
+                "waterBodies": 17
+            },
+            "description": "Satellite imagery analysis of Hurricane Harvey from xBD dataset.",
+            "images": {
+                "before": "/api/images/hurricane-harvey/before",
+                "after": "/api/images/hurricane-harvey/after",
+                "thumbnail": "/api/images/hurricane-harvey/thumbnail"
+            },
+            "xbd_data": {
+                "disaster_name": "hurricane-harvey",
+                "pre_images_count": 427,
+                "post_images_count": 427,
+                "sample_pre_image": "hurricane-harvey_00000000_pre_disaster.png",
+                "sample_post_image": "hurricane-harvey_00000000_post_disaster.png"
+            }
+        },
+        {
+            "id": 4,
+            "type": "hurricane",
+            "name": "Hurricane Matthew",
+            "location": "Hurricane",
+            "country": "Various",
+            "coordinates": [
+                0,
+                0
+            ],
+            "date": "2018-01-01",
+            "severity": "high",
+            "affectedArea": 238,
+            "casualties": 0,
+            "displaced": 0,
+            "economicLoss": 0,
+            "damage": {
+                "buildings": 61,
+                "roads": 48,
+                "vegetation": 36,
+                "waterBodies": 24
+            },
+            "description": "Satellite imagery analysis of Hurricane Matthew from xBD dataset.",
+            "images": {
+                "before": "/api/images/hurricane-matthew/before",
+                "after": "/api/images/hurricane-matthew/after",
+                "thumbnail": "/api/images/hurricane-matthew/thumbnail"
+            },
+            "xbd_data": {
+                "disaster_name": "hurricane-matthew",
+                "pre_images_count": 311,
+                "post_images_count": 311,
+                "sample_pre_image": "hurricane-matthew_00000000_pre_disaster.png",
+                "sample_post_image": "hurricane-matthew_00000000_post_disaster.png"
+            }
+        },
+        {
+            "id": 5,
+            "type": "hurricane",
+            "name": "Hurricane Michael",
+            "location": "Hurricane",
+            "country": "Various",
+            "coordinates": [
+                0,
+                0
+            ],
+            "date": "2018-01-01",
+            "severity": "medium",
+            "affectedArea": 393,
+            "casualties": 0,
+            "displaced": 0,
+            "economicLoss": 0,
+            "damage": {
+                "buildings": 43,
+                "roads": 34,
+                "vegetation": 25,
+                "waterBodies": 17
+            },
+            "description": "Satellite imagery analysis of Hurricane Michael from xBD dataset.",
+            "images": {
+                "before": "/api/images/hurricane-michael/before",
+                "after": "/api/images/hurricane-michael/after",
+                "thumbnail": "/api/images/hurricane-michael/thumbnail"
+            },
+            "xbd_data": {
+                "disaster_name": "hurricane-michael",
+                "pre_images_count": 441,
+                "post_images_count": 441,
+                "sample_pre_image": "hurricane-michael_00000000_pre_disaster.png",
+                "sample_post_image": "hurricane-michael_00000000_post_disaster.png"
+            }
+        },
+        {
+            "id": 6,
+            "type": "earthquake",
+            "name": "Mexico Earthquake",
+            "location": "Mexico",
+            "country": "Various",
+            "coordinates": [
+                0,
+                0
+            ],
+            "date": "2018-01-01",
+            "severity": "high",
+            "affectedArea": 3477,
+            "casualties": 0,
+            "displaced": 0,
+            "economicLoss": 0,
+            "damage": {
+                "buildings": 52,
+                "roads": 42,
+                "vegetation": 31,
+                "waterBodies": 21
+            },
+            "description": "Satellite imagery analysis of Mexico Earthquake from xBD dataset.",
+            "images": {
+                "before": "/api/images/mexico-earthquake/before",
+                "after": "/api/images/mexico-earthquake/after",
+                "thumbnail": "/api/images/mexico-earthquake/thumbnail"
+            },
+            "xbd_data": {
+                "disaster_name": "mexico-earthquake",
+                "pre_images_count": 159,
+                "post_images_count": 159,
+                "sample_pre_image": "mexico-earthquake_00000000_pre_disaster.png",
+                "sample_post_image": "mexico-earthquake_00000000_post_disaster.png"
+            }
+        },
+        {
+            "id": 7,
+            "type": "flood",
+            "name": "Midwest Flooding",
+            "location": "Midwest",
+            "country": "Various",
+            "coordinates": [
+                0,
+                0
+            ],
+            "date": "2018-01-01",
+            "severity": "high",
+            "affectedArea": 1128,
+            "casualties": 0,
+            "displaced": 0,
+            "economicLoss": 0,
+            "damage": {
+                "buildings": 51,
+                "roads": 41,
+                "vegetation": 30,
+                "waterBodies": 20
+            },
+            "description": "Satellite imagery analysis of Midwest Flooding from xBD dataset.",
+            "images": {
+                "before": "/api/images/midwest-flooding/before",
+                "after": "/api/images/midwest-flooding/after",
+                "thumbnail": "/api/images/midwest-flooding/thumbnail"
+            },
+            "xbd_data": {
+                "disaster_name": "midwest-flooding",
+                "pre_images_count": 359,
+                "post_images_count": 359,
+                "sample_pre_image": "midwest-flooding_00000001_pre_disaster.png",
+                "sample_post_image": "midwest-flooding_00000001_post_disaster.png"
+            }
+        },
+        {
+            "id": 8,
+            "type": "flood",
+            "name": "Palu Tsunami",
+            "location": "Palu",
+            "country": "Various",
+            "coordinates": [
+                0,
+                0
+            ],
+            "date": "2018-01-01",
+            "severity": "high",
+            "affectedArea": 4889,
+            "casualties": 0,
+            "displaced": 0,
+            "economicLoss": 0,
+            "damage": {
+                "buildings": 54,
+                "roads": 43,
+                "vegetation": 32,
+                "waterBodies": 21
+            },
+            "description": "Satellite imagery analysis of Palu Tsunami from xBD dataset.",
+            "images": {
+                "before": "/api/images/palu-tsunami/before",
+                "after": "/api/images/palu-tsunami/after",
+                "thumbnail": "/api/images/palu-tsunami/thumbnail"
+            },
+            "xbd_data": {
+                "disaster_name": "palu-tsunami",
+                "pre_images_count": 155,
+                "post_images_count": 155,
+                "sample_pre_image": "palu-tsunami_00000000_pre_disaster.png",
+                "sample_post_image": "palu-tsunami_00000000_post_disaster.png"
+            }
+        },
+        {
+            "id": 9,
+            "type": "fire",
+            "name": "Santa Rosa Wildfire",
+            "location": "Santa",
+            "country": "Various",
+            "coordinates": [
+                0,
+                0
+            ],
+            "date": "2018-01-01",
+            "severity": "high",
+            "affectedArea": 513,
+            "casualties": 0,
+            "displaced": 0,
+            "economicLoss": 0,
+            "damage": {
+                "buildings": 55,
+                "roads": 44,
+                "vegetation": 33,
+                "waterBodies": 22
+            },
+            "description": "Satellite imagery analysis of Santa Rosa Wildfire from xBD dataset.",
+            "images": {
+                "before": "/api/images/santa-rosa-wildfire/before",
+                "after": "/api/images/santa-rosa-wildfire/after",
+                "thumbnail": "/api/images/santa-rosa-wildfire/thumbnail"
+            },
+            "xbd_data": {
+                "disaster_name": "santa-rosa-wildfire",
+                "pre_images_count": 300,
+                "post_images_count": 300,
+                "sample_pre_image": "santa-rosa-wildfire_00000002_pre_disaster.png",
+                "sample_post_image": "santa-rosa-wildfire_00000002_post_disaster.png"
+            }
+        },
+        {
+            "id": 10,
+            "type": "fire",
+            "name": "Socal Fire",
+            "location": "Socal",
+            "country": "Various",
+            "coordinates": [
+                0,
+                0
+            ],
+            "date": "2018-01-01",
+            "severity": "high",
+            "affectedArea": 1397,
+            "casualties": 0,
+            "displaced": 0,
+            "economicLoss": 0,
+            "damage": {
+                "buildings": 58,
+                "roads": 46,
+                "vegetation": 35,
+                "waterBodies": 23
+            },
+            "description": "Satellite imagery analysis of Socal Fire from xBD dataset.",
+            "images": {
+                "before": "/api/images/socal-fire/before",
+                "after": "/api/images/socal-fire/after",
+                "thumbnail": "/api/images/socal-fire/thumbnail"
+            },
+            "xbd_data": {
+                "disaster_name": "socal-fire",
+                "pre_images_count": 1130,
+                "post_images_count": 1130,
+                "sample_pre_image": "socal-fire_00000001_pre_disaster.png",
+                "sample_post_image": "socal-fire_00000001_post_disaster.png"
+            }
+        }
+    ],
+    "metadata": {
+        "total_disasters": 10,
+        "generated_at": "2026-02-28T07:18:22.233506",
+        "source": "xBD Dataset"
+    }
+}

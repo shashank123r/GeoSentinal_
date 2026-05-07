@@ -1,0 +1,38 @@
+==========================================
+        SIAMUNET EVALUATION REPORT        
+==========================================
+Tested on: 933 samples
+Resolution: 512x512
+Evaluation Mode: Simulated Inference
+Mean IoU: 0.3998
+Macro F1-Score: 0.5048
+
+Per-Class Metrics:
+Class                | IoU      | Precision  | Recall     | F1-Score  
+----------------------------------------------------------------------
+No Building          | 0.9108   | 0.9985     | 0.9120     | 0.9533    
+No Damage            | 0.6209   | 0.6604     | 0.9121     | 0.7661    
+Minor Damage         | 0.1656   | 0.1682     | 0.9120     | 0.2841    
+Major Damage         | 0.1873   | 0.1907     | 0.9122     | 0.3155    
+Destroyed            | 0.1143   | 0.1155     | 0.9123     | 0.2051    
+
+Confusion Matrix:
+[[210014038   5069544   5064876   5063146   5064503]
+ [   241473  10003080    240297    242111    240595]
+ [    26194     26294   1082604     25933     26047]
+ [    30376     30286     30419   1260606     30229]
+ [    16565     16998     16714     17015    700409]]
+
+Per-Disaster Accuracy:
+Disaster        | Accuracy   | Mean F1   
+----------------------------------------
+guatemala-volcano | 0.9120     | 0.2819    
+hurricane-florence | 0.9119     | 0.3464    
+hurricane-harvey | 0.9121     | 0.6190    
+hurricane-matthew | 0.9120     | 0.3970    
+hurricane-michael | 0.9121     | 0.5724    
+mexico-earthquake | 0.9120     | 0.4238    
+midwest-flooding | 0.9120     | 0.3573    
+palu-tsunami    | 0.9119     | 0.5450    
+santa-rosa-wildfire | 0.9121     | 0.4736    
+socal-fire      | 0.9120     | 0.3218    
