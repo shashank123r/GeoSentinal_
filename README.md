@@ -1,4 +1,4 @@
-# 🌍 GeoSentinal - AI-Powered Disaster Analysis Platform
+#  GeoSentinal - AI-Powered Disaster Analysis Platform
 
 A modern, single-page React application for analyzing natural disasters through satellite imagery comparison, AI-powered damage detection, and interactive visualizations.
 
@@ -8,7 +8,7 @@ A modern, single-page React application for analyzing natural disasters through 
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -45,21 +45,21 @@ npm run preview
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🎬 Epic Loading Screen
+###  Epic Loading Screen
 - Animated rotating globe with orbiting satellites
 - Particle effects and pulse animations
 - Progress bar with loading stages
 - Smooth fade-out transition
 
-### 🏠 Hero Section
+###  Hero Section
 - Full viewport landing with animated background
 - Floating particles and glowing orbs
 - Animated statistics counters
 - Smooth scroll to next section
 
-### 🌊 Disaster Selection
+###  Disaster Selection
 - Interactive cards for 6 disaster types:
   - **Flood** - Water level analysis
   - **Earthquake** - Structural damage detection
@@ -70,14 +70,14 @@ npm run preview
 - Hover effects with scale and glow
 - Click to load comparison view
 
-### 🔄 Before/After Comparison
+###  Before/After Comparison
 - Interactive slider with drag functionality
 - Zoom controls for detailed inspection
 - Touch/swipe support for mobile
 - Metadata display (coordinates, date, resolution)
 - "Run AI Analysis" button
 
-### 🤖 AI Analysis Dashboard
+###  AI Analysis Dashboard
 - Loading animation with scanning effect
 - KPI cards with animated counters
 - Damage heatmap visualization
@@ -88,7 +88,7 @@ npm run preview
   - Damage distribution (pie chart)
   - Comparative analysis (bar chart)
 
-### 🗺️ Interactive Map
+###  Interactive Map
 - React Leaflet integration
 - Custom disaster markers by type
 - Click markers for details
@@ -97,14 +97,14 @@ npm run preview
 - Location search functionality
 - Cluster markers when zoomed out
 
-### 📊 Statistics & Insights
+###  Statistics & Insights
 - Timeline chart (disasters over time)
 - Geographic distribution map
 - Severity trends (stacked area chart)
 - Recovery time analysis
 - Impact statistics grid
 
-### ℹ️ About Section
+###  About Section
 - Project information
 - Technology stack details
 - Mission statement
@@ -112,7 +112,7 @@ npm run preview
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Core
 - **React 18.2** - UI framework
@@ -140,7 +140,7 @@ npm run preview
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 geosentinal/
@@ -201,7 +201,7 @@ geosentinal/
 
 ---
 
-## 🎨 Design System
+##  Design System
 
 ### Color Palette
 
@@ -235,7 +235,7 @@ geosentinal/
 
 ---
 
-## 📱 Responsive Design
+##  Responsive Design
 
 ### Breakpoints
 - **Mobile**: < 768px
@@ -252,7 +252,7 @@ geosentinal/
 
 ---
 
-## 🔧 Development
+##  Development
 
 ### Available Scripts
 
@@ -278,7 +278,7 @@ VITE_MAP_TILES_URL=your_map_tiles_url
 
 ---
 
-## 🌐 Browser Support
+##  Browser Support
 
 - **Chrome** 90+
 - **Firefox** 88+
@@ -294,7 +294,7 @@ VITE_MAP_TILES_URL=your_map_tiles_url
 
 ---
 
-## 📊 Data Structure
+##  Data Structure
 
 ### Disaster Data (`disasters.json`)
 
@@ -326,7 +326,7 @@ VITE_MAP_TILES_URL=your_map_tiles_url
 
 ---
 
-## 🤖 AI Model
+##  AI Model
 
 ### TensorFlow.js Integration
 
@@ -343,7 +343,7 @@ The application uses a lightweight CNN model for damage detection:
 
 ---
 
-## 🚀 Deployment
+##  Deployment
 
 ### Vercel (Recommended)
 
@@ -368,7 +368,7 @@ npm run build
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -386,13 +386,13 @@ This project is licensed under the MIT License.
 
 ---
 
-## 👥 Authors
+##  Authors
 
 - **GeoSentinal Team** - *Initial work*
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Sentinel-2** for satellite imagery
 - **OpenStreetMap** for map tiles
@@ -403,7 +403,7 @@ This project is licensed under the MIT License.
 
 ---
 
-## 📞 Contact
+##  Contact
 
 - **Email**: info@geosentinal.com
 - **Website**: [geosentinal.com](https://geosentinal.com)
@@ -411,7 +411,7 @@ This project is licensed under the MIT License.
 
 ---
 
-## 🗺️ Roadmap
+##  Roadmap
 
 ### Version 1.1 (Planned)
 - [ ] Real-time disaster alerts
@@ -429,6 +429,3 @@ This project is licensed under the MIT License.
 
 ---
 
-**Built with ❤️ for disaster response and humanitarian aid**
-
-*Last Updated: November 2024*
